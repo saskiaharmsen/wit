@@ -41,6 +41,8 @@ INSERT INTO Reward (Employee_ref_id, date_reward, amount) VALUES (5, '2021-04-22
 -- Vind alle rewards van het huidige jaar -> Gebruik hiervoor YEAR() dus YEAR(column_name) levert een getal op
 
 -- Vind van alle employees de totaal aan rewards -> gebruik SUM
+-- nog een opdracht
+-- en nog een
 
 
 
